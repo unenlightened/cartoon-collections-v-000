@@ -23,5 +23,4 @@ def find_the_cheese(array)
       each == cheese
     end
   end
-
 end
