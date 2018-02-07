@@ -22,6 +22,6 @@ def find_the_cheese(array)
     cheese_types.include?(each)
     #cheese_types.any? do |cheese|
       #cheese == each
-    end
+    #end
   end
 end
